@@ -1,0 +1,15 @@
+{
+  "name": "debug-js-countdown-timer",
+  "description": "Implements a countdown timer class as a JavaScript debugging exercise",
+  "version": "1.0.6",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfarmer/debug-js-countdown-timer.git",
+    "private": true
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
